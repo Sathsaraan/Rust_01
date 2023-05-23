@@ -57,7 +57,7 @@ fn main() {
     println!("2.Subtract : - ");
     println!("3.Multiply : * ");
     println!("4.Divide   : / ");
-    println!("6.Remainder: % ");
+    println!("5.Remainder: % ");
 
 //----------------------------------------------------------------------------------------------------------------
 // input a

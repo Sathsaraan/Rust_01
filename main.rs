@@ -7,8 +7,6 @@ fn add(a : f64,b : f64) -> f64 {
 fn subtract(a : f64,b : f64) -> f64 {
     a - b
 }
- 
-//what if b == 0
 
 fn divide(a : f64,b : f64) -> f64 {
     a / b
